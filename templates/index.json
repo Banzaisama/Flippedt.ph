@@ -6,21 +6,21 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝑻𝒐 𝑭𝒍𝒊𝒑𝒑𝒆𝒅𝒕.𝒑𝒉",
+            "heading": "𝓕𝓵𝓲𝓹𝓹𝓮𝓭𝓽.𝓟𝓱",
             "heading_size": "h0"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Shopping & Retail Thrifted & Reworked",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
+            "button_label_1": "Shop Now",
             "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
@@ -36,7 +36,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/logo_822136ee-46a7-49e9-956a-b1333aa60251.jpg",
-        "image_overlay_opacity": 20,
+        "image_overlay_opacity": 30,
         "image_height": "large",
         "adapt_height_first_image": false,
         "desktop_content_position": "bottom-center",
@@ -54,14 +54,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
+            "heading": "<p>𝐀𝐁𝐎𝐔𝐓 𝐔𝐒<br\/><\/p>",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>𝙁𝙡𝙞𝙥𝙥𝙚𝙙𝙩.𝙥𝙝 𝙞𝙨 𝙖 𝙡𝙤𝙘𝙖𝙡 𝙘𝙡𝙤𝙩𝙝𝙞𝙣𝙜 𝙗𝙧𝙖𝙣𝙙 𝙩𝙝𝙖𝙩 𝙖𝙙𝙫𝙤𝙘𝙖𝙩𝙚𝙨 𝙖 𝙥𝙧𝙤𝙛𝙤𝙪𝙣𝙙 𝙮𝙚𝙩 𝙨𝙪𝙨𝙩𝙖𝙞𝙣𝙖𝙗𝙡𝙚 𝙛𝙖𝙨𝙝𝙞𝙤𝙣 𝙗𝙮 𝙗𝙧𝙞𝙣𝙜𝙞𝙣𝙜 𝙪𝙣𝙞𝙦𝙪𝙚 𝙖𝙣𝙙 𝙘𝙡𝙖𝙨𝙨𝙞𝙘 𝙘𝙪𝙧𝙖𝙩𝙚𝙙 𝙥𝙞𝙚𝙘𝙚𝙨. 𝙄𝙩 𝙞𝙨 𝙖 𝙨𝙝𝙤𝙥 𝙬𝙝𝙚𝙧𝙚 𝙥𝙧𝙚-𝙡𝙤𝙫𝙚𝙙 𝙘𝙡𝙤𝙩𝙝𝙚𝙨 𝙖𝙧𝙚 𝙢𝙚𝙣𝙙𝙚𝙙 𝙖𝙣𝙙 𝙤𝙫𝙚𝙧𝙝𝙖𝙪𝙡𝙚𝙙 𝙞𝙣𝙩𝙤 𝙥𝙞𝙚𝙘𝙚𝙨 𝙩𝙝𝙖𝙩 𝙖𝙧𝙚 𝙖𝙡𝙡𝙪𝙧𝙞𝙣𝙜 𝙛𝙤𝙧 𝙖𝙡𝙡 𝙖𝙩 𝙧𝙚𝙖𝙨𝙤𝙣𝙖𝙗𝙡𝙚 𝙥𝙧𝙞𝙘𝙚𝙨.<\/p>"
           }
         }
       },
@@ -81,8 +81,8 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
+        "title": "𝖥𝖾𝖺𝗍𝗎𝗋𝖾𝖽 𝗉𝗋𝗈𝖽𝗎𝖼𝗍𝗌",
+        "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
@@ -105,41 +105,35 @@
         "padding_bottom": 36
       }
     },
-    "collage": {
-      "type": "collage",
+    "032a4fb7-7eed-4776-9326-88c3be59593d": {
+      "type": "collection-list",
       "blocks": {
-        "collection-0": {
-          "type": "collection",
+        "b1e956b1-e8d2-47bd-bd06-a30f8434f89d": {
+          "type": "featured_collection",
           "settings": {
             "collection": ""
           }
         },
-        "product": {
-          "type": "product",
+        "template--16576234848497__032a4fb7-7eed-4776-9326-88c3be59593d-1665485482c0a227aa-0": {
+          "type": "featured_collection",
           "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
+            "collection": "frontpage"
           }
         }
       },
       "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
+        "b1e956b1-e8d2-47bd-bd06-a30f8434f89d",
+        "template--16576234848497__032a4fb7-7eed-4776-9326-88c3be59593d-1665485482c0a227aa-0"
       ],
       "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "portrait",
+        "columns_desktop": 3,
         "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -149,50 +143,17 @@
       "settings": {
         "heading": "",
         "heading_size": "h1",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "cover_image": "shopify:\/\/shop_images\/Screenshot_111.png",
+        "video_url": "https:\/\/youtu.be\/9zVwP28JQt8",
         "description": "",
         "full_width": false,
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
     "multicolumn": {
       "type": "multicolumn",
-      "blocks": {
-        "column1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column1",
-        "column2",
-        "column3"
-      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -215,7 +176,7 @@
     "image_banner",
     "rich_text",
     "featured_collection",
-    "collage",
+    "032a4fb7-7eed-4776-9326-88c3be59593d",
     "video",
     "multicolumn"
   ]
