@@ -13,7 +13,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "Shopping & Retail Thrifted & Reworked",
+            "text": "Shopping & Retail | Thrifted & Reworked",
             "text_style": "body"
           }
         },
@@ -111,7 +111,7 @@
         "b1e956b1-e8d2-47bd-bd06-a30f8434f89d": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "skirt"
           }
         },
         "template--16576234848497__032a4fb7-7eed-4776-9326-88c3be59593d-1665485482c0a227aa-0": {
@@ -146,29 +146,64 @@
         "cover_image": "shopify:\/\/shop_images\/Screenshot_111.png",
         "video_url": "https:\/\/youtu.be\/9zVwP28JQt8",
         "description": "",
-        "full_width": false,
+        "full_width": true,
         "color_scheme": "background-2",
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "multicolumn": {
-      "type": "multicolumn",
+    "6358588f-2230-4248-99ad-2f450db686e3": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16576234848497__6358588f-2230-4248-99ad-2f450db686e3-166549449790049454-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_20221006_132249_6f48f73d-315f-45d9-9d1a-6e5ee5e51c4e.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--16576234848497__6358588f-2230-4248-99ad-2f450db686e3-166549449790049454-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/310230698_446173130832490_4981104888701742403_n_4c480e32-e108-4b26-b961-bd9ab9c909ae.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16576234848497__6358588f-2230-4248-99ad-2f450db686e3-166549449790049454-0",
+        "template--16576234848497__6358588f-2230-4248-99ad-2f450db686e3-166549449790049454-1"
+      ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": false,
+        "accessibility_info": ""
       }
     }
   },
@@ -178,6 +213,6 @@
     "featured_collection",
     "032a4fb7-7eed-4776-9326-88c3be59593d",
     "video",
-    "multicolumn"
+    "6358588f-2230-4248-99ad-2f450db686e3"
   ]
 }

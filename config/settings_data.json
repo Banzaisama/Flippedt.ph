@@ -145,7 +145,7 @@
           "logo": "shopify:\/\/shop_images\/logo_822136ee-46a7-49e9-956a-b1333aa60251.jpg",
           "logo_width": 90,
           "logo_position": "middle-left",
-          "menu": "main-menu",
+          "menu": "menu",
           "menu_type_desktop": "dropdown",
           "show_line_separator": true,
           "enable_sticky_header": true,
@@ -158,35 +158,19 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "footer-0": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
-            }
-          },
-          "footer-1": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Info",
-              "menu": "footer"
-            }
-          },
           "footer-2": {
             "type": "text",
             "settings": {
-              "heading": "Our mission",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+              "heading": "𝗢𝘂𝗿 𝗺𝗶𝘀𝘀𝗶𝗼𝗻",
+              "subtext": "<p>𝑾𝒆 𝒑𝒓𝒐𝒎𝒐𝒕𝒆𝒔 𝒆𝒄𝒐-𝒇𝒓𝒊𝒆𝒏𝒅𝒍𝒚 𝒎𝒆𝒂𝒏𝒊𝒏𝒈𝒔 𝒐𝒇 𝒔𝒆𝒍𝒍𝒊𝒏𝒈; 𝒇𝒓𝒐𝒎 𝒑𝒂𝒄𝒌𝒊𝒏𝒈 𝒕𝒐 𝒎𝒆𝒏𝒅𝒊𝒏𝒈 𝒐𝒇 𝒄𝒍𝒐𝒕𝒉𝒆𝒔 𝒂𝒏𝒅 𝒓𝒂𝒊𝒔𝒆𝒔 𝒂𝒘𝒂𝒓𝒆𝒏𝒆𝒔𝒔 𝒂𝒃𝒐𝒖𝒕 𝒕𝒉𝒆 𝒆𝒇𝒇𝒐𝒓𝒕𝒔 𝒃𝒆𝒊𝒏𝒈 𝒑𝒖𝒕 𝒊𝒏𝒕𝒐 𝒕𝒉𝒆 𝒄𝒓𝒆𝒂𝒕𝒊𝒐𝒏 𝒐𝒇 𝒕𝒉𝒆𝒔𝒆 𝒑𝒓𝒐𝒅𝒖𝒄𝒕𝒔.<\/p>"
             }
           }
         },
         "block_order": [
-          "footer-0",
-          "footer-1",
           "footer-2"
         ],
         "settings": {
-          "color_scheme": "background-1",
+          "color_scheme": "background-2",
           "newsletter_enable": true,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": true,
