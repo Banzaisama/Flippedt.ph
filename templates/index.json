@@ -197,11 +197,11 @@
         "template--16576234848497__6358588f-2230-4248-99ad-2f450db686e3-166549449790049454-1"
       ],
       "settings": {
-        "layout": "full_bleed",
+        "layout": "grid",
         "slide_height": "small",
-        "slider_visual": "counter",
+        "slider_visual": "dots",
         "auto_rotate": false,
-        "change_slides_speed": 5,
+        "change_slides_speed": 3,
         "show_text_below": false,
         "accessibility_info": ""
       }
